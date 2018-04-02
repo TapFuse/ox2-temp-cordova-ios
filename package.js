@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ox2:temp-cordova-ios',
-  version: '1.0.0',
+  version: '3.0.0',
   // Brief, one-line summary of the package.
   summary: 'DO NOT USE',
   // URL to the Git repository containing the source code for this package.
@@ -23,5 +23,5 @@ Package.onUse(function(api) {
 });
 
 Cordova.depends({
-  "cordova-plugin-safariviewcontroller": "1.4.6",
+  "cordova-plugin-safariviewcontroller": "1.5.3",
 });
